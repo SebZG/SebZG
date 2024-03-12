@@ -45,7 +45,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SebZG/SebZG/output/snake.svg" alt="Snake animation" />
-
-###
